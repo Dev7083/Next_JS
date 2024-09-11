@@ -1,4 +1,4 @@
-## Settuping up a Next Project
+## Setting up a Next Project
 
 ```
 npx create-next-app@latest
@@ -16,15 +16,15 @@ npm install next@latest react@latest react-dom@latest
 - Next js with & withour src
 - Directory Structure
 - Route
-- Nested route
+- Nested Route
 - Route Group
-- Dynamic route
+- Dynamic Route
 - URL params
-- CatchALl route
-- CatchAll route optional
-- Parallel route & conditional route render
+- CatchALl Route
+- CatchAll Route optional
+- Parallel Route & Conditional Route Rendering
 - Layout
 - Link
-- useRouter() hook
+- useRouter() Hook
 - Server Components & Client Components
 -
