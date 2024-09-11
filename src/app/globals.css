@@ -25,3 +25,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.temp-60 {
+  font-size: 60px;
+}
