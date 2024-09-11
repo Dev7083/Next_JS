@@ -1,5 +1,6 @@
 import LearnClientComponent from "@/components/LearnClientComponent";
 import LearnCssModule from "@/components/LearnCssModule";
+import LearnDataFetching from "@/components/LearnDataFetching";
 import LearnGlobalCss from "@/components/LearnGlobalCss";
 import LearnLink from "@/components/LearnLink";
 import LearnServerComponent from "@/components/LearnServerComponent";
@@ -18,6 +19,7 @@ export default function Home() {
         <LearnGlobalCss />
         <LearnCssModule />
         <LearnUseImage />
+        {/* <LearnDataFetching /> */}
       </main>
     </div>
   );
