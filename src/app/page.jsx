@@ -1,4 +1,6 @@
+import LearnClientComponent from "@/components/LearnClientComponent";
 import LearnLink from "@/components/LearnLink";
+import LearnServerComponent from "@/components/LearnServerComponent";
 import LearnUseRouter from "@/components/LearnUseRouter";
 
 export default function Home() {
@@ -8,6 +10,8 @@ export default function Home() {
         <h1>Hey there!</h1>
         {/* <LearnLink /> */}
         <LearnUseRouter />
+        <LearnServerComponent />
+        <LearnClientComponent />
       </main>
     </div>
   );
